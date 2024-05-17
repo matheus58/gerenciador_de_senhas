@@ -1,4 +1,10 @@
-# gerenciador_de_senhas
+# gerenciador de senhas
+
+Esse progeto usa por padrao a blibioteca " "
+
+> [!WARNING]
+> A senha padrao master e  12345678 ela pode se mudada depois da primeira execusao .
+
 ## Colaboradores
 
 - ### Maria Clara Fernandes Rangel (Matrícula: UC22102645)
