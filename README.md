@@ -16,6 +16,6 @@ Esse progeto usa por padrao a blibioteca " "
 - ### Nathalia Gonçalves Silva (Matrícula: UC22200563)
   [![Nathalia](https://avatars.githubusercontent.com/nathi-gs?s=100)](https://github.com/nathi-gs)
 
--## Bruno Alves Martins Teodoro (Matrícula: UC22100692) 
+- ### Bruno Alves Martins Teodoro (Matrícula: UC22100692) 
   [![Bruno](https://avatars.githubusercontent.com/motherlode777?s=100)](https://github.com/motherlode777)
 
