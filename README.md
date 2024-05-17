@@ -1,6 +1,8 @@
 # gerenciador de senhas
 
-Esse progeto usa por padrao a blibioteca " "
+Esse progeto usa por padrao a blibioteca :
+ pip install  cryptography <br>
+ pip install passlib <br>
 
 > [!WARNING]
 > A senha padrao master e  12345678 ela pode se mudada depois da primeira execusao .
