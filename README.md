@@ -1,6 +1,6 @@
 # gerenciador de senhas
 
-Esse progeto usa por padrao a blibioteca :
+Esse progeto usa por padrao a blibioteca :<br>
  pip install  cryptography <br>
  pip install passlib <br>
 
